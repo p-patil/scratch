@@ -5,4 +5,4 @@
 
 2. Verifying that the intuitive idea of simply sampling the higher-dimensional analogs of the azimuthal and polar angles in 3-D spherical coordinates uniformly does not produce a uniform distribution on the N-sphere, and seeing what the distribution does look like.
 
-3. When sampling uniformly on the unit N-sphere, what does the distribution of each individual coordinate look like?
+3. When sampling uniformly on the unit N-sphere, what does the distribution of each individual coordinate look like? In addition, uniformly sample on various high-dimensional unit spheres and project down to 2 or 3 dimensions, and see what the distribution looks like.

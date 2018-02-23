@@ -1,4 +1,5 @@
 # Byte-compiled / optimized / DLL files
+average_image_experiments/mnist_kmeans_clusters_k10.p
 __pycache__/
 *.py[cod]
 *$py.class
